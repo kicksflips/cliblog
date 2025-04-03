@@ -1,5 +1,6 @@
 <?php
     $hello = "Hello World!";
+    $age = 15;
 ?>
 <!DOCTYPE html>
 <html lang="en">
