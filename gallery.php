@@ -1,2 +1,2 @@
 <?php
-    $name = "Tralalelo_Tralala";
+    $name = "Larali_Larila";
